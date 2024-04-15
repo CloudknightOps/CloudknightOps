@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uviekugbere Theophilus @ CloudKnightOps</h1>
-<h3 align="center">I'm a Cloud Native enthusiast, who is passionate about the software development lifecycle (SDLC), infrastructure automation, open-source software collaboration,and DevOps Practices.</h3>
+<h3 align="center">I'm a DevOps/Site Reliability Engineer, who is passionate about Blockchain and WEB3 Projects, monitoring/Observability, Cloud/infrastructure automation and DevOps Practices.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CloudknightOps&label=Profile%20views&color=0e75b6&style=flat" alt="CloudknightOps" /> </p>
 <p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="500"> </p>
 

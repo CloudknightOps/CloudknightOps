@@ -6,11 +6,11 @@
 
 <p> 
 
-- 🔭 I’m currently working on **Cloud-Native Development with Openshift,Kubernetes and AWS**
+- 🔭 I’m currently working on **Running a Blockchain infrastructure using Dedicated Ethereum RPC Node on AWS**
 
-- 🌱 I’m currently learning **Containerized Applications on AWS**
+- 🌱 I’m currently learning **Infrastructure optimization for Blockchain and web3 projects**
 
-- 👯 I’m looking to collaborate on **Devops, Application Dev using Microservices**
+- 👯 I’m looking to collaborate on **Observalibilty and monitoring projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CloudknightOps?tab=repositories](https://github.com/CloudknightOps?tab=repositories)
 
